@@ -11,5 +11,6 @@ Wikis:
 - http://en.wikipedia.org/wiki/Chromosome
 
 Chromosomes , Human Genome Project di Human Genome Project
-* Build 34, Chromosome Number '''01''': http://www.gutenberg.org/ebooks/11775
-
+* Chromosome Number '''01''' (Build 34): http://www.gutenberg.org/ebooks/11775
+* Chromosome Number 09: http://www.gutenberg.org/ebooks/3509
+* Chromosome Number 12: http://www.gutenberg.org/ebooks/3512
